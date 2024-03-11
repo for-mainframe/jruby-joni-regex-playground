@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jruby-joni-regex-playground">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jcodings-1.0.58.jar!/" />
+      <root url="jar://$PROJECT_DIR$/joni-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

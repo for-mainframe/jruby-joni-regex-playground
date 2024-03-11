@@ -8,14 +8,10 @@ import javafx.scene.layout.VBox;
 import javafx.scene.layout.HBox;
 import javafx.geometry.Pos;
 import javafx.geometry.Insets;
-import javafx.event.EventHandler;
-import javafx.event.ActionEvent;
 import org.joni.Regex;
 import org.joni.Matcher;
-import org.joni.Region;
 import org.joni.Option;
 import org.joni.exception.JOniException;
-import java.util.Arrays;
 import java.nio.ByteBuffer;
 import java.nio.CharBuffer;
 import java.nio.charset.StandardCharsets;
@@ -108,6 +104,7 @@ public class Main extends Application
   } 
     
   public static void main(String[] args) {
-    launch(args);
+
+//    launch(args);
   }
 } 
